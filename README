@@ -1,0 +1,18 @@
+//////////////////////////////////////////////////////////
+weloveAsteroids 0.1
+//////////////////////////////////////////////////////////
+
+Asteroids clone made with OpenFrameworks.
+
+This project its an excuse for learning/teaching c++ coding with OpenFrameworks and keep testing new OF versions.
+
+Have fun!
+
+
+This game«s code it«s based on:
+
+Manuel Blum«s Asteroids remake:
+http://smurd.at/index.php?option=com_content&view=article&id=10&Itemid=28
+
+Tony Sandal Asteroids in Processing
+http://www.planettroy.com/asteroids-in-processing/
